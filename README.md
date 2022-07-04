@@ -14,7 +14,7 @@ Both goal-agnostic and goal-oriented tasks have practical value for robotic gras
 - Python 3
   - torch>=0.4.0, torchvision
   - numpy, scipy, opencv-python, matplotlib, skimage
-- CoppeliaSim
+- CoppeliaSim V4.1.0
 - Cuda 10.1
 - GTX 2080 Ti, 12GB memory is tested
 
