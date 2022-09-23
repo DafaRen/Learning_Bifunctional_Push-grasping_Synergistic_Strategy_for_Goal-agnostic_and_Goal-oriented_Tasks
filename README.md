@@ -74,8 +74,11 @@ We use the following code in our project
 - [Light-Weight RefineNet for Real-Time Semantic Segmentation][2]
 
 - [Grasping invisible][3]
+
 [1]: https://github.com/andyzeng/visual-pushing-grasping
+
 [2]: https://github.com/DrSleep/light-weight-refinenet
+
 [3]: https://github.com/choicelab/grasping-invisible
 
 
