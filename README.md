@@ -1,6 +1,6 @@
 # Learning Bifunctional Push-grasping Synergistic Strategy for Goal-agnostic and Goal-oriented Tasks
 
-Video:  [YouTube](https://youtu.be/cOud5iLoJPk) 
+Video:  [YouTube](https://youtu.be/FRRpw0l1F-I) 
 
 Dafa Ren, Shuang Wu, Xiaofan Wang and Xiaoqiang Ren
 
@@ -73,7 +73,7 @@ We use the following code in our project
 
 - [Light-Weight RefineNet for Real-Time Semantic Segmentation][2]
 
-- [Grasping invisible][3]
+- [Grasping Invisible][3]
 
 [1]: https://github.com/andyzeng/visual-pushing-grasping
 
