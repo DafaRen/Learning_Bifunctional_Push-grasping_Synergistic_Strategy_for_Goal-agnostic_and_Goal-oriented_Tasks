@@ -1,6 +1,6 @@
 # Learning Bifunctional Push-grasping Synergistic Strategy for Goal-agnostic and Goal-oriented Tasks
 
-Video:  [YouTube](https://youtu.be/FRRpw0l1F-I) 
+Video:  [YouTube](https://youtu.be/cOud5iLoJPk) 
 
 Dafa Ren, Shuang Wu, Xiaofan Wang and Xiaoqiang Ren
 
